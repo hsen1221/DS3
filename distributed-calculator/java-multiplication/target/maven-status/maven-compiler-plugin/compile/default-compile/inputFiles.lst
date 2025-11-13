@@ -1,0 +1,12 @@
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/Calculator.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/LogEntryOrBuilder.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/grpc-java/com/example/calculator/MultiplicationServiceGrpc.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/LogRequestOrBuilder.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/grpc-java/com/example/calculator/AdditionServiceGrpc.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/OperationResponse.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/src/main/java/com/example/MultiplicationServer.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/OperationResponseOrBuilder.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/OperationRequest.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/LogRequest.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/OperationRequestOrBuilder.java
+/home/hsen1/DS3/distributed-calculator/java-multiplication/target/generated-sources/protobuf/java/com/example/calculator/LogEntry.java
