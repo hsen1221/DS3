@@ -9,4 +9,4 @@ python is a gateway
 
 we performed the services remotely on a server as required (we open remote ssh to ubuntu server from vscode)
 
-there are 2 videos for applying the sum and multiplication
+there are 2 videos demo for applying the sum and multiplication
